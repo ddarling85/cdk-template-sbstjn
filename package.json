@@ -34,7 +34,7 @@
     "@aws-cdk/aws-sqs": "1.95.1",
     "@aws-cdk/core": "1.95.1",
     "@types/aws-lambda": "8.10.76",
-    "@types/jest": "26.0.23",
+    "@types/jest": "27.5.0",
     "@types/node": "15.0.2",
     "aws-cdk": "1.102.0",
     "@types/node": "15.0.1",
